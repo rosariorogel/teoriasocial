@@ -5,7 +5,7 @@ subtitle: Qué ofrece este sitio
 permalink: about
 ---
 
-# Este es un sitio web dedicado a la Teoría Social
+# Este es un sitio web dedicado a la Teoría Social Contemporánea
 
 ## Este es un Recurso Educativo Abierto
 
